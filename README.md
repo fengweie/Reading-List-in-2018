@@ -13,3 +13,11 @@ Reading list on deep learning
 - **MLF + SLF**: "Deep Attentional Features for Prostate Segmentation in Ultrasound", MICCAI 2018.
 - **Autofocus**: "Autofocus Layer for Semantic Segmentation", MICCAI 2018.
 
+
+### Segmentation:
+- **CCL**: "Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation", CVPR 2018.
+- **MILD-Net**: "MILD-Net : Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images", Medical Image Analysis, 2018.
+
+
+### Feature Encoding:
+- **Feature encoding based on BOW**: "Deep TEN: Texture Encoding Network", CVPR 2017. 
