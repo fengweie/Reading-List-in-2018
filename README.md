@@ -16,11 +16,11 @@ Reading list on deep learning
 - **Multi-scale Attention based on Compatibility Score**: "Learn to Pay Attention", in CVPR, 2018. （利用高层和低层特征的一致性为低层特征的每个位置分配attention，最后各层合并）.
 - **Saliency Detection**: "Efficient saliency detection using convolutional neural networks with feature selection", in Information Sciences, 2018.
 - **Grad-CAM**: "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization", in ICCV, 2017.
+- **Multi-scale Saliency**: "Deep Visual Attention Prediction", in TIP, 2018.
 
 
 
 ### Segmentation:
-- **CCL**: "Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation", in CVPR, 2018.
 - **MILD-Net**: "MILD-Net : Minimal Information Loss Dilated Network for Gland Instance Segmentation in Colon Histology Images", in Medical Image Analysis, 2018.
 - **Dense Unet, 2D & 3D**: "H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes", in TMI, 2018.
 
@@ -28,6 +28,9 @@ Reading list on deep learning
 ### Feature Encoding:
 - **Feature encoding based on BOW**: "Deep TEN: Texture Encoding Network", in CVPR, 2017. 
 - **Context encoding**: "Context Encoding for Semantic Segmentation", in CVPR, 2018. （和SE模块很相似）
+- **CCL**: "Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation", in CVPR, 2018.
+- **DSC**: "Direction-aware Spatial Context Features for Shadow Detection", in CVPR, 2018. (都是充分利用context features，可以和CCL以及MIL结合)．
+
 
 
 ### Multi-instance Learning:
